@@ -1,0 +1,29 @@
+{
+  "name": "koinvendors-auto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdw1p/koinvendors-Auto.git"
+  },
+  "author": "cdw1p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdw1p/koinvendors-Auto/issues"
+  },
+  "homepage": "https://github.com/cdw1p/koinvendors-Auto#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cron": "^1.8.2",
+    "delay": "^5.0.0",
+    "faker": "^5.5.3",
+    "fs-extra": "^10.0.0",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "twisters": "^1.1.0"
+  }
+}
